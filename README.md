@@ -19,12 +19,8 @@
 ## LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/parix__)
 
-## 🚀 Problem-Solving on LeetCode
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)
-![LeetCode Problems](https://img.shields.io/badge/Solved%20Problems-XX-orange?style=flat&logo=leetcode)
-
 ## 🔥 LeetCode Activity Graph
-[![LeetCode Heatmap](https://leetcode-badge-showcase.vercel.app/api?username=parix__&theme=dark)](https://leetcode.com/parix__/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/parix__/)
 
 ## Connect with Me
 - GitHub: [Pari2226](https://github.com/Pari2226)
