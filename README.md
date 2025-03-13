@@ -1,35 +1,38 @@
-# Hi there, I'm Pari! 👋
-
-## About Me
-- 🎓 B.Tech student specializing in Computer Science and Engineering with a focus on Artificial Intelligence.
-- 💻 Passionate about coding and problem-solving.
-- 🌐 Interested in web development, combining technical skills with creativity to build innovative and user-friendly applications.
-
-## Languages and Tools
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-
-## GitHub Stats
-![Pari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pari2226&show_icons=true&theme=radical)
-
-## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/parix__)
-
-## 🔥 LeetCode Activity Graph
-[![LeetCode Heatmap](https://leetcode-badge-showcase.vercel.app/api?username=parix__&theme=dark)](https://leetcode.com/parix__/)
 <div align="center"> 
   <h2 align="center">Leetcode Info</h2>  
   <p align="center">
-    <a href="https://leetcode.com/parix__/" target="_blank">
+    <a href="https://leetcode.com/u/parix__/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/dcc-2023-50.png" alt="Pari's LeetCode 50 Days Badge" height="200" width="200" />
-    </a> 
-  </p> 
-</div>
+    </a>
+    <a href="https://leetcode.com/u/parix__/" target="_blank">
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="Pari's LeetCode March Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/u/parix__/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="Pari's LeetCode 200 Problems Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/u/parix__/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="Pari's LeetCode 100 Problems Badge" height="200" width="200" />
+    </a>
+  </p>
 
-## Connect with Me
-- GitHub: [Pari2226](https://github.com/Pari2226)
-- LeetCode: [parix__](https://leetcode.com/u/parix__/)
+  <p align="center">
+    <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/parix__?theme=dark&font=Ubuntu%20Condensed&ext=contest" />
+  </p>
+
+  <br/>
+  <h2 align="center">⚡ Current Stats ⚡</h2>
+  <br>
+  <div align="center">
+    <a href="https://github.com/Pari2226" target="_blank">
+      <img width="390" src="https://streak-stats.demolab.com/?user=Pari2226&count_private=true&theme=react&border_radius=10" alt="Pari's GitHub Streak Stats"/>
+    </a>
+    <a href="https://github.com/Pari2226" target="_blank">
+      <img width="390" src="https://github-readme-stats.vercel.app/api?username=Pari2226&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Pari's GitHub Stats" />
+    </a>
+    <a href="https://github.com/Pari2226" target="_blank">
+      <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pari2226&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Pari's Top Languages" />
+    </a>
+  </div>
+
+  <br/><br/>
+</div>
