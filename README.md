@@ -23,4 +23,4 @@
 ## Connect with Me
 - GitHub: [Pari2226](https://github.com/Pari2226)
 - LeetCode: [parix__](https://leetcode.com/u/parix__/)
-- E-mail: [pari's email](officialpari24@gmail.com)
+- E-mail: officialpari24@gmail.com
