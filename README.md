@@ -20,7 +20,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/parix__)
 
 ## 🔥 LeetCode Activity Graph
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/parix__/)
+[![LeetCode Heatmap](https://leetcode-badge-showcase.vercel.app/api?username=parix__&theme=dark)](https://leetcode.com/parix__/)
 
 ## Connect with Me
 - GitHub: [Pari2226](https://github.com/Pari2226)
