@@ -21,7 +21,12 @@
 
 ## 🔥 LeetCode Activity Graph
 [![LeetCode Heatmap](https://leetcode-badge-showcase.vercel.app/api?username=parix__&theme=dark)](https://leetcode.com/parix__/)
-
+<div align="center"> 
+  <h2 align="center">Leetcode Info</h2>  
+  <p align="center">
+    <a href="https://leetcode.com/u/AlgoWhiz04/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="AlgoWhiz04's Leetcode 50 days Badge" height="200" width="200" /></a>
+  </p>
+</div> 
 ## Connect with Me
 - GitHub: [Pari2226](https://github.com/Pari2226)
 - LeetCode: [parix__](https://leetcode.com/u/parix__/)
