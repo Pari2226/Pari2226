@@ -16,9 +16,8 @@
 ## LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/parix__)
 
-
-## GitHub Stats
-![Pari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pari2226&show_icons=true&theme=radical)
+## 🔥 LeetCode Activity Graph
+[![LeetCode Heatmap](https://leetcode-badge-showcase.vercel.app/api?username=parix__&theme=dark)](https://leetcode.com/parix__/)
 
 
 ## Connect with Me
