@@ -23,7 +23,6 @@
 
 ## 📊 LeetCode Stats
 
-> If the live badge fails to load or shows zero, ensure your [LeetCode profile](https://leetcode.com/parix__/) is public.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/parix__?ext=contest)
 
